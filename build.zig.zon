@@ -1,0 +1,12 @@
+.{
+    .name = "diffz",
+    .version = "0.1.0",
+    .dependencies = .{},
+    .paths = .{
+        "DiffMatchPatch.zig",
+        "build.zig",
+        "build.zig.zon",
+        "LICENSE",
+        "README.md",
+    },
+}
